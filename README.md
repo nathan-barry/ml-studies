@@ -91,6 +91,6 @@ Welcome to my repo which contains a fair amount of my jupyter notebooks revolvin
 
 ## Resources
 
-- (Machine Learning)[https://www.udemy.com/course/machinelearning/Machine Learning]
-- (Deep Learning)[https://www.udemy.com/course/the-complete-neural-networks-bootcamp-theory-applications/]
-- (Math with Python)[https://www.udemy.com/course/math-with-python/]
+- [Machine Learning](https://www.udemy.com/course/machinelearning/)
+- [Deep Learning](https://www.udemy.com/course/the-complete-neural-networks-bootcamp-theory-applications/)
+- [Math with Python](https://www.udemy.com/course/math-with-python/)
