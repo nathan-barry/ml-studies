@@ -79,7 +79,6 @@ Welcome to my repo which contains a fair amount of my jupyter notebooks revolvin
   - [ ] BERT
   - [ ] Vision Transformers
   - [ ] GPT
-  - [ ]
 
 - [ ] Math
   - [ ] Graphing
