@@ -1,3 +1,5 @@
+# The Dot Product
+
 import numpy as np
 
 # Make up input, weights, and biases

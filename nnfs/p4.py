@@ -1,3 +1,5 @@
+# Batches, Layers, and Objects
+
 import numpy as np
 
 np.random.seed(0)

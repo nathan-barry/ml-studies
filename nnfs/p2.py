@@ -1,4 +1,5 @@
-# Make up input
+# Coding a Layer
+
 inputs = [1, 2, 3, 2.5]
 
 # Make up weights for 3 fully connected neurons (input 4 neurons, output 3 neurons)
